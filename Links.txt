@@ -1,0 +1,9 @@
+Dashboard link- https://app.powerbi.com/view?r=eyJrIjoiMDk1YzdiMDAtMjhlNS00YjEyLTkyMTktMDYzYTZlY2QzMjNjIiwidCI6IjlmNDA5ZjUwLTE5YjgtNDQ2Yy04MTY4LWU3ZmQyNWJhNzc2MiJ9&pageName=ce901859c7be9918a86e
+
+Github repository link(Model)- https://github.com/Oorja-Gund28/CrimeCategory
+
+Github repository link(EDA)- https://github.com/Oorja-Gund28/EDA_CrimeCategory
+
+Model deployment app- https://crimecategory.onrender.com
+
+EDA deployment app- https://eda-crimecategory-2.onrender.com
